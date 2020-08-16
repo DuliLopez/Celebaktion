@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Celebaketion</string>
+    <string name="Carttot">Cart Total</string>
+    <string name="birth">Birthday Cake</string>
+    <string name="marble">Marble Cake</string>
+    <string name="cup">Cup Cake</string>
+    <string name="r">Rs.4000</string>
+    <string name="rs">Rs.4500</string>
+    <string name="rs1">Rs.1000</string>
+    <string name="btn">UPDATE CART</string>
+    <string name="NAV">NAVIGATION</string>
+    <string name="N1">HOME</string>
+    <string name="n2">CAKE SHOP</string>
+    <string name="n3">DELIVERY</string>
+    <string name="n4">CONTACT VENDORS</string>
+    <string name="n5">SETTINGS</string>
+    <string name="n6">LOGIN/REGISTER</string>
+    <string name="b">Sign Out</string>
+    <string name="t">TERMS AND CONDITIONS</string>
+    <string name="p">PRIVACY POLICY</string>
+    <string name="bir">BIRTHDAY CAKE</string>
+    <string name="KG">1.5kg</string>
+    <string name="btn1">ADD TO CART</string>
+    <string name="btn2">BUY NOW</string>
+    <string name="MSG">FLAVORS</string>
+    <string name="MSG1">Rs.4000 - 4100</string>
+    <string name="MSG2">Rs.4000.00</string>
+    <string name="MSG3">Subtotal Rs.4,000.00</string>
+    <string name="MSG4">Message on the cake</string>
+</resources>
